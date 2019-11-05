@@ -15,7 +15,7 @@
 <AnchorPane id="AnchorPane" fx:id="anchorPane" onMouseDragged="#handleAnchorDrag" onMousePressed="#handleAnchorClick" onMouseReleased="#handleAnchorReleased" prefHeight="454.0" prefWidth="617.0" style="-fx-background-color: #1c1c1c;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="loancalculator.FXMLDocumentController">
    <children>
       <Region layoutY="310.0" prefHeight="168.0" prefWidth="617.0" style="-fx-background-color: #252525;" />
-      <JFXButton layoutX="500.0" layoutY="253.0" onMouseClicked="#handleCalculateClicked" onMouseEntered="#handleButtonHover" onMouseExited="#handleButtonHoverExited" ripplerFill="WHITE" style="-fx-background-color: #49d661; -fx-font-weight: bold; -fx-font-size: 17;" text="Calculate" textFill="WHITE">
+      <JFXButton layoutX="500.0" layoutY="253.0" onMouseClicked="#handleCalculateClicked" onMouseEntered="#handleButtonHover" onMouseExited="#handleButtonHoverExited" ripplerFill="WHITE" style="-fx-background-color: #2bd047; -fx-font-weight: bold; -fx-font-size: 17;" text="Calculate" textFill="WHITE">
          <font>
             <Font name="System Bold" size="15.0" />
          </font>

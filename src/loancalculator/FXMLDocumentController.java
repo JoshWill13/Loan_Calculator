@@ -257,7 +257,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private void handleButtonHoverExited(MouseEvent me) {
         ColorAdjust ca = new ColorAdjust();
-        ca.setBrightness(0.3);
+        ca.setBrightness(0);
         JFXButton b = (JFXButton) me.getSource();
         b.setEffect(ca);
     }
