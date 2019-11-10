@@ -7,6 +7,10 @@ Loan Calculator is a simple desktop application that estimates the payments you'
 </p>
 
 <p>&nbsp;</p>
+# Run
+Download the runLC.zip, extract files and run the LoanCalculator.jar file.
+
+# Details
 The project was created using javafx and fxml in Netbeans. Calculations are preformed in bigdecimal to maintain precision.
 
 # Resources
